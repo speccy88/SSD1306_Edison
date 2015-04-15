@@ -5,3 +5,6 @@ The code was originally taken from:
 https://github.com/adafruit/Adafruit_Python_SSD1306
 
 Big thanks to Adafruit Industries and Tony DiCola
+
+![Picture 1](/pictures/edison1.jpg)
+![Picture 2](/pictures/edison2.jpg)
