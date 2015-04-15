@@ -1,5 +1,5 @@
 # SSD1306_Edison
-SSD1306 126x64 i2c implementation with Intel Edison and libmraa
+SSD1306 128x64 i2c implementation with Intel Edison and libmraa
 
 The code was originally taken from:
 https://github.com/adafruit/Adafruit_Python_SSD1306
